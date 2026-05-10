@@ -56,7 +56,7 @@ forensix/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/forensix.git
+git clone https://github.com/RenggaSenpaii/forensix.git
 ```
 
 ```bash
